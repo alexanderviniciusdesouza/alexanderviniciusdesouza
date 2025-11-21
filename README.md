@@ -97,3 +97,7 @@
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=lex_vinicius&theme=dark&layout=compact"/>
 </td>
 </tr>
+
+
+
+
