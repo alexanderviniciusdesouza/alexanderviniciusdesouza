@@ -24,6 +24,13 @@
     </a>
 </p>
 
+<td><a href="mailto:alexandercientista@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5531993925339" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="meu_linkedln" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -51,8 +58,7 @@
 
 ---
 
-### 📊 Estatísticas
-
+### <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>Estatísticas
 
 
 <p>
@@ -73,3 +79,21 @@
 
 </p>
 
+-----
+<p>
+    
+</p>
+
+<tr>
+ <!---<td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>-->
+ <td align="center">:watch: <a href="https://wakatime.com/@lex_vinicius">WakaTime</a></td>
+</tr>
+
+<tr>
+<!---<td>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+</td>-->
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=lex_vinicius&theme=dark&layout=compact"/>
+</td>
+</tr>
