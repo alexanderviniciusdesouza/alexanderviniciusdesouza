@@ -3,7 +3,7 @@
 **`Data Scientist`**
 
 - 🐍 Sou um Cientista de Dados com proficiência em Python.
-- 📊 Sou especializado em bibliotecas como Pandas, Scikit-Learn e Matplotlib. 
+- 📊 Sou especializado em bibliotecas como Pandas, Scikit-Learn e Matplotlib.
 - ⚙️ Tenho experiência em análise e manipulação de dados, criação de modelos preditivos, visualização de dados e construção de scripts automatizados. 
 - 🚀 Busco transformar dados em soluções práticas, insights acionáveis e modelos eficientes. 
 
